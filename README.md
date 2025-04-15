@@ -45,7 +45,7 @@ This approach shows that **smart feature engineering combined with machine learn
 | Data Cleaning & Wrangling   | `pandas`, `NumPy`                     |
 | Visualization               | `matplotlib`, `seaborn`               |
 | Modeling                    | `scikit-learn` (`RandomForestClassifier`) |
-| Feature Engineering         | Custom logic, business knowledge      |
+| Feature Engineering         | Business knowledge                    |
 | Outlier Detection           | Z-Score, IQR                          |
 | Notebook Environment        | Jupyter Notebook                      |
 
