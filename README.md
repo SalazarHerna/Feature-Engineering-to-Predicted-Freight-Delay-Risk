@@ -1,6 +1,9 @@
 # Feature-Engineering-to-Predicted-Freight-Delay-Risk
 Engineered logistic and financial features to build a Random Forest model that predicts freight delivery delays using supply chain data. The model enabled risk-based insurance pricing, calculating premiums that balance expected claims, fixed costs, and profit margins.
 
+- Python Notebook: [PN](https://github.com/SalazarHerna/Feature-Engineering-to-Predicted-Freight-Delay-Risk/blob/848daf8ce5e94b4867add75245d5657899daaa34/Document%20%26%20Code/Feature%20Engineering%20to%20Predict%20Freight%20Delays.ipynb)
+- Project Summary: [PS]
+
 ## Objectives:
 - Predict whether a shipment would be **late**, based on information available **at the time of purchase**.
 - Calculate a **risk-based insurance premium** that considers:
