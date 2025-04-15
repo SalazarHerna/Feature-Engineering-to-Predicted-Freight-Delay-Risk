@@ -51,16 +51,16 @@ This approach shows that **smart feature engineering combined with machine learn
 
 ---
 ## Steps to Engineer Features and Build Prediction Model
-Step 1: Data Preparation
-Step 2: Feature Engineering
-Step 3: Model Training
+# Step 1: Data Preparation
+# Step 2: Feature Engineering
+# Step 3: Model Training
   - **Random Forest Classifier** due to:
   - Dedine Model Assumptions:**
-Step 4: Performance Evaluation
+# Step 4: Performance Evaluation
 - **Accuracy:** 63.75%
 - **Precision & Recall:** Stronger for predicting **late deliveries (Class 1)**
 - Conclusion: Model is effective for **real-world claim prediction and premium setting**
-Step 5: Insurance Premium Calculation
+# Step 5: Insurance Premium Calculation
 
 ## Conclusions & Recommendations
 This project demonstrates the power of **feature engineering combined with machine learning** to deliver intelligent, risk-based insurance pricing models:
