@@ -25,7 +25,7 @@ These features added predictive power beyond the raw dataset, aligning with real
 ## Key Outcomes
 - Built a **Random Forest Classifier** using both original and engineered features to classify freight delay risk.
 - Achieved **63.75% accuracy**, with strong **precision and recall** for late deliveries, making the model a reliable predictor of potential claims.
-- Calculated a **personalized insurance premium.
+- Calculated a personalized insurance premium.
   
 ## Insights
 - **Feature engineering** was central to model success, enhancing model depth and interpretability.
